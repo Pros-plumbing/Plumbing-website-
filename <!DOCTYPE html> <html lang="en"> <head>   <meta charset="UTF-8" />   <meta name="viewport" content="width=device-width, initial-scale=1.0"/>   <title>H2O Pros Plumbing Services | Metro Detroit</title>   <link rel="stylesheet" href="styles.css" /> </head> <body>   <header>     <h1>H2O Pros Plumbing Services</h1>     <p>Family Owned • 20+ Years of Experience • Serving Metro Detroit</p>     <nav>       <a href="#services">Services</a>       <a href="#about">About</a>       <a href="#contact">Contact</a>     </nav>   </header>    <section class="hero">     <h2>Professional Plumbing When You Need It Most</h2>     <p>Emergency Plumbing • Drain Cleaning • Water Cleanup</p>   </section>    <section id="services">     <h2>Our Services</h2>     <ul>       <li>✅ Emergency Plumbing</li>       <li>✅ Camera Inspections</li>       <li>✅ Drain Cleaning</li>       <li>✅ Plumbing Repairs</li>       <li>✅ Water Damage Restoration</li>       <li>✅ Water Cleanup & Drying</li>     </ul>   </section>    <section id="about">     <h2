@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>H2O Pros Plumbing Services | Metro Detroit</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>H2O Pros Plumbing Services</h1>
+    <p>Family Owned • 20+ Years of Experience • Serving Metro Detroit</p>
+    <nav>
+      <a href="#services">Services</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Professional Plumbing When You Need It Most</h2>
+    <p>Emergency Plumbing • Drain Cleaning • Water Cleanup</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>✅ Emergency Plumbing</li>
+      <li>✅ Camera Inspections</li>
+      <li>✅ Drain Cleaning</li>
+      <li>✅ Plumbing Repairs</li>
+      <li>✅ Water Damage Restoration</li>
+      <li>✅ Water Cleanup & Drying</li>
+    </ul>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>H2O Pros Plumbing is a family-owned business with over 20 years of experience. We proudly serve Metro Detroit with honest, dependable plumbing and water restoration services. Whether it's a clogged drain or a flooded basement, we’re the professionals you can trust.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>📞 Call us: <a href="tel:7348770975">734-877-0975</a></p>
+    <p>🕗 Business Hours: Monday–Friday, 8AM–5PM</p>
+    <p>📍 Service Area: Metro Detroit</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 H2O Pros Plumbing Services</p>
+  </footer>
+</body>
+</html>
